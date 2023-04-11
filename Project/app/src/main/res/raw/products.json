@@ -1,0 +1,233 @@
+[
+  {
+    "productId": 1,
+    "productName": "Mens Winter Jacket",
+    "price": 22.3,
+    "category": 1,
+    "image": "https://i.pinimg.com/736x/18/57/3c/18573c9336cce50e72e568999e074c6f.jpg",
+    "discount": 0.0,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 3
+  },
+  {
+    "productId": 2,
+    "productName": "Mens Slim Fit T-Shirt",
+    "price": 22.3,
+    "category": 1,
+    "image": "https://clothingdirect.co.nz/img/colors/biz-corporates-rs969ml-mens-charlie-slim-fit-long-sleeve-shirt-silver-chambray.jpg",
+    "discount": 0.7,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 23
+  },
+  {
+    "productId": 3,
+    "productName": "Mens Leather Jacket",
+    "price": 155.99,
+    "category": 1,
+    "image": "https://www.saddler.co.uk/prodpics/ready/b/bedalewaxedcottonjacketbarbour_2_massive.jpg",
+    "discount": 0.5,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 4,
+    "productName": "Mens Casual Shirt",
+    "price": 15.99,
+    "category": 1,
+    "image": "https://i.pinimg.com/736x/2e/88/a5/2e88a52be17ccbce0306aae0a295138c.jpg",
+    "discount": 0.8,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 5,
+    "productName": "White Beads Gold Bracelet",
+    "price": 695,
+    "category": 2,
+    "image": "https://toppng.com/uploads/preview/bracelet-11550132476iw1ljtotzi.png",
+    "discount": 0.25,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 6,
+    "productName": "Mantra Bangle Bracelet ",
+    "price": 299,
+    "category": 2,
+    "image": "https://cdn.shopify.com/s/files/1/0549/4289/2270/products/no_regrets_gold-_no_background_1024x1024.jpg?v=1658668421",
+    "discount": 0.45,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 7,
+    "productName": "Rombi Bracelet",
+    "price": 99.9,
+    "category": 2,
+    "image": "https://www.pngkey.com/png/full/219-2197627_buccellati-bracelets-rombi-bracelet-jewelry-buccellati-bracelets.png",
+    "discount": 0.9,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 8,
+    "productName": "Celtic Ring",
+    "price": 40.99,
+    "category": 2,
+    "image": "https://celticdesignsjewelry.com/wp-content/uploads/2017/04/Celtic-Rings-Feature-Image-No-Background.png",
+    "discount": 0.5,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 9,
+    "productName": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "category": 3,
+    "image": "https://static.jazp.com/uploads_700x600/202009/ea13c6988da9ebc807454899ff782bce.jpeg",
+    "discount": 0.75,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 10,
+    "productName": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gbs",
+    "price": 109,
+    "category": 3,
+    "image": "https://m.media-amazon.com/images/I/711vMT0N0BL._SL1500_.jpg",
+    "discount": 0.8,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 11,
+    "productName": "Silicon Power 256GB",
+    "price": 109,
+    "category": 3,
+    "image": "https://www.ubuy.qa/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzUxRDBlYU95YmRMLmpwZw.jpg",
+    "discount": 0.1,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 12,
+    "productName": "WD 4TB Gaming Drive",
+    "price": 114,
+    "category": 3,
+    "image": "https://m.media-amazon.com/images/I/614kExSCswL.jpg",
+    "discount": 0.3,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 13,
+    "productName": "Acer SB220Q bi",
+    "price": 599,
+    "category": 3,
+    "image": "https://m.media-amazon.com/images/I/61zhZdddWVL.jpg",
+    "discount": 0.2,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 14,
+    "productName": "Samsung Curved Monitor",
+    "price": 999.99,
+    "category": 3,
+    "image": "https://m.media-amazon.com/images/I/711uu1wZZ9L.jpg",
+    "discount": 0.6,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 15,
+    "productName": "Snowboard Winter Jacket",
+    "price": 56.99,
+    "category": 4,
+    "image": "https://m.media-amazon.com/images/I/51W1KhnxHnL._UL1024_.jpg",
+    "discount": 0.9,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 16,
+    "productName": "Comfy Hoodie",
+    "category": 4,
+    "price": 29.95,
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51YQ9BhqHTL._AC._SR360,460.jpg",
+    "discount": 0.4,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 17,
+    "productName": "Climbing Raincoats",
+    "price": 39.99,
+    "category": 4,
+    "image": "https://i5.walmartimages.com/asr/bfb26d03-0df7-4ceb-ad58-a52d8f257d11_1.b70875214134789b7302609952fc92a1.jpeg",
+    "discount": 0.75,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 18,
+    "productName": "V Neck Short Sleeve",
+    "price": 29.85,
+    "category": 4,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41QEqUaKWdL.jpg",
+    "discount": 0.1,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 19,
+    "productName": "Opna Short Sleeve",
+    "price": 17.95,
+    "category": 4,
+    "image": "https://m.media-amazon.com/images/I/51cgfGnoyLL.jpg",
+    "discount": 0.5,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 20,
+    "productName": "DANVOUY Womens T Shirt",
+    "price": 12.99,
+    "category": 4,
+    "image": "https://m.media-amazon.com/images/I/B1DBWbloIpS._CLa%7C2140%2C2000%7C41dgPwT1ElL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX466._SX._UX._SY._UY_.png",
+    "discount": 0.3,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  },
+  {
+    "productId": 21,
+    "productName": "Floral Dress",
+    "price": 109.95,
+    "category": 4,
+    "image": "https://www.kindpng.com/picc/m/43-438292_floral-dress-transparent-background-clothing-floral-flare-dresses.png",
+    "discount": 0.6,
+    "stock": 100,
+    "rating": 3.3,
+    "totalReviews": 20
+  }
+]

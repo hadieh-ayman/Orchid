@@ -1,0 +1,13 @@
+[
+  {
+    "orderId": 1,
+    "status": "none",
+    "datePlaced": "none",
+    "estDelivery": "none",
+    "total": 0,
+    "paymentMode": "none",
+    "account": 1,
+    "card": 0,
+    "voucher": ""
+  }
+]

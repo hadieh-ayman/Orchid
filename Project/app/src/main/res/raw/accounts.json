@@ -1,0 +1,34 @@
+[
+  {
+    "accountId": 4,
+    "accountType": "admin",
+    "username": "Admin",
+    "email": "admin@gmail.com",
+    "phone": "77382293",
+    "password": "pass123"
+  },
+  {
+  "accountId": 1,
+  "accountType": "user",
+  "username": "User1",
+  "email": "u1@gmail.com",
+  "phone": "77382293",
+  "password": "pass123"
+},
+  {
+    "accountId": 2,
+    "accountType": "user",
+    "username": "User2",
+    "email": "u2@gmail.com",
+    "phone": "77382293",
+    "password": "pass123"
+  },
+  {
+    "accountId": 3,
+    "accountType": "user",
+    "username": "User3",
+    "email": "u3@gmail.com",
+    "phone": "77382293",
+    "password": "pass123"
+  }
+]

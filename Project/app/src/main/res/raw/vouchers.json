@@ -1,0 +1,18 @@
+[
+  {
+    "voucherCode": "",
+    "percentage": 0
+  },
+  {
+    "voucherCode": "HF10",
+    "percentage": 0.1
+  },
+  {
+    "voucherCode": "GF20",
+    "percentage": 0.2
+  },
+  {
+    "voucherCode": "OFF3",
+    "percentage": 0.3
+  }
+]

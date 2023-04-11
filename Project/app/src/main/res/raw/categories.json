@@ -1,0 +1,22 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "Men's Clothing",
+    "categoryImg": "https://cdn-icons-png.flaticon.com/512/413/413391.png"
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Jewelry",
+    "categoryImg": "https://cdn-icons-png.flaticon.com/512/2361/2361685.png"
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Electronics",
+    "categoryImg": "https://icons.veryicon.com/png/o/construction-tools/engineering-physics-color-icon/electronics.png"
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Women's Clothing",
+    "categoryImg": "https://cdn-icons-png.flaticon.com/512/1161/1161655.png"
+  }
+]
